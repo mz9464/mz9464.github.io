@@ -1,13 +1,38 @@
 body {
-		background:#999;
-		font-family: monospace;
+	background:#999;
+	font-family: monospace;
+	margin: 20;
 }
 
-h1{
+header {
 	background: white;
+	padding: 5px;
+}
+
+header h1 {
+	margin: 0;
 	padding: 10px;
+	display: inline;
 }
 
 h2 {
 	color: blue;
+}
+
+nav ul{
+	margin: 0;
+	display: inline;
+}
+
+nav ul li {
+	background: black;
+	margin: 0;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 10px;	
+	margin: 0;
+}
+
+nav ul li a{
+	color: white;
 }
