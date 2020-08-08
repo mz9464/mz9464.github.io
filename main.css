@@ -36,3 +36,18 @@ nav ul li {
 nav ul li a{
 	color: white;
 }
+
+.row:after {
+    clear: both;
+    content: " ";
+    display: table;
+}
+
+.col{
+	background: #668;
+	border-radius: 5px;
+	padding: 10px .5%;
+	margin: .5%;
+	width: 31%;
+	float:left;
+}
