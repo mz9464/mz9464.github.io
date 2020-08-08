@@ -1,0 +1,13 @@
+body {
+		background:#999;
+		font-family: monospace;
+}
+
+h1{
+	background: white;
+	padding: 10px;
+}
+
+h2 {
+	color: blue;
+}
