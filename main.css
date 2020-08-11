@@ -43,11 +43,10 @@ nav ul li a{
     display: table;
 }
 
-.col{
-	background: #668;
+.col img{
 	border-radius: 5px;
-	padding: 10px .5%;
 	margin: .5%;
 	width: 31%;
 	float:left;
 }
+
