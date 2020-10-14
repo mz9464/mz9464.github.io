@@ -1,7 +1,8 @@
 body {
-	background:#999;
+	background:#333;
 	font-family: monospace;
-	margin: 20;
+	margin: 0px;
+	color: white;
 }
 
 header {
@@ -14,14 +15,21 @@ header h1 {
 	padding: 17px;
 	margin: 0;
 	display: inline;
-	color: white;
 	font-size: 30px;
 }
 
 h2 {
-	color: blue;
+	margin: 20px;
+	color: #6EE2FF;
 }
 
+p{
+	margin: 20px;
+}
+
+a{
+	color: #17D1FF;
+}
 nav ul{
 	margin: 0;
 	display: inline;
@@ -33,7 +41,6 @@ nav ul li {
 	display: inline-block;
 	list-style-type: none;
 	padding: 5px 10px;	
-	margin: 0;
 }
 
 nav ul li a{
@@ -47,8 +54,8 @@ nav ul li a{
 }
 
 .col img{
-	border-radius: 10px;
-	margin: .5%;
-	width: 31%;
+	border-radius: 5%;
+	margin: .6%;
+	width: 32%;
 	float:left;
 }
