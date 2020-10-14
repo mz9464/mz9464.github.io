@@ -5,14 +5,17 @@ body {
 }
 
 header {
-	background: white;
-	padding: 5px;
+	background-image: url("images/banner.png");
+	padding: 17px;
+	background-position: right;
 }
 
 header h1 {
+	padding: 17px;
 	margin: 0;
-	padding: 10px;
 	display: inline;
+	color: white;
+	font-size: 30px;
 }
 
 h2 {
@@ -49,4 +52,3 @@ nav ul li a{
 	width: 31%;
 	float:left;
 }
-
