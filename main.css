@@ -30,7 +30,14 @@ header h1 {
 
 h2 {
 	margin: 20px;
+	font-size: 20px;
 	color: #6EE2FF;
+}
+
+h3 {
+	margin: 2px;
+	font-size: 18px;
+	color: #a1e4f5;
 }
 
 p{
@@ -41,9 +48,10 @@ p{
 a{
 	color: #17D1FF;
 }
-nav ul{
+ul li{
 	margin: 0;
-	display: inline;
+	font-family: monospace;
+	font-size: 16px;
 }
 
 nav ul li {
@@ -78,6 +86,12 @@ a:active {
 
 .col img{
 	border-radius: 5%;
+	margin: .6%;
+	width: 32%;
+	float:left;
+}
+
+.collist{
 	margin: .6%;
 	width: 32%;
 	float:left;
