@@ -98,7 +98,7 @@ a:active {
 }
 
 footer{
-	position:fixed;
+	position:abolute;
 	bottom:0;
 	font-size: 12px;
 }
