@@ -102,3 +102,9 @@ footer{
 	bottom:0;
 	font-size: 12px;
 }
+
+.collist img{
+	border-radius: 50%;
+	width: 80%;
+	padding: 30px;
+}
