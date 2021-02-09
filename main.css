@@ -41,7 +41,6 @@ h3 {
 }
 
 p{
-	margin: 20px;
 	font-size: 16px;
 }
 
@@ -78,6 +77,9 @@ a:active {
 	text-decoration: underline;
 }
 
+.row {
+	margin: 5%;
+}
 .col:after {
     clear: both;
     content: " ";
