@@ -78,7 +78,7 @@ a:active {
 	text-decoration: underline;
 }
 
-.row:after {
+.col:after {
     clear: both;
     content: " ";
     display: table;
