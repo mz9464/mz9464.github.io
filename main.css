@@ -1,7 +1,8 @@
 body {
 	background:#333;
-	font-family: monospace;
-	margin: 0px;
+	font-family: 'Courier New', Courier, monospace;
+	margin-left: 10%;
+	margin-right: 10%;
 	color: white;
 	position: center;
 }
@@ -18,18 +19,17 @@ img {
 }
 
 header {
+	font-weight: 550;
 	padding: 17px;
 }
 
 header h1 {
-	padding: 17px;
 	margin: 0;
 	display: inline;
 	font-size: 30px;
 }
 
 h2 {
-	margin: 20px;
 	font-size: 20px;
 	color: #6EE2FF;
 }
@@ -48,8 +48,8 @@ a{
 	color: #17D1FF;
 }
 ul li{
+	font-family: 'Courier New', Courier, monospace;
 	margin: 0;
-	font-family: monospace;
 	font-size: 16px;
 }
 
@@ -94,19 +94,23 @@ a:active {
 }
 
 .collist{
-	margin: .6%;
+	margin: 1%;
+	width: 30%;
+	float: left;
+}
+
+.collist2{
+	margin: 2%;
 	width: 32%;
-	float:left;
+	float: left;
 }
 
 footer{
 	position:abolute;
-	bottom:0;
 	font-size: 12px;
 }
 
 .collist img{
 	border-radius: 50%;
 	width: 80%;
-	padding: 30px;
 }
