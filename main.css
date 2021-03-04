@@ -100,8 +100,8 @@ a:active {
 }
 
 .collist2{
-	margin: 2%;
-	width: 32%;
+	margin-inline-start: 15%;
+	width: 30%;
 	float: left;
 }
 
