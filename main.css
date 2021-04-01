@@ -94,19 +94,23 @@ a:active {
 }
 
 .collist{
-	margin: 1%;
-	width: 30%;
+	margin: 2%;
+	width: 29%;
 	float: left;
 }
 
 .collist2{
-	margin-inline-start: 12%;
-	width: 30%;
+	margin-inline-start: 8%;
+	width: 40%;
 	float: left;
 }
 
+.collist2 img{
+	border-radius: 50%;
+}
+
 footer{
-	position:abolute;
+
 	font-size: 12px;
 }
 
